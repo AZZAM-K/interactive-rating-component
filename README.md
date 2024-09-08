@@ -1,0 +1,1 @@
+Simple interactive rating website.
